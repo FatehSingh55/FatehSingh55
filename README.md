@@ -11,4 +11,6 @@ I spend most of my time writing C++ and CUDA, trying to understand how hardware 
   * Next up: moving matrix math to the GPU with custom CUDA kernels.
 
 **Stack:** C++, CUDA, C
+
+
 **Interests:** Manual memory management, pointers, high-performance computing
