@@ -1,16 +1,14 @@
-## Hi there 👋
+### Fateh Singh
 
-<!--
-**FatehSingh55/FatehSingh55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student from Amritsar building and exploring into low-level systems. Prepping for Fall 2028 CS undergrad. 
 
-Here are some ideas to get you started:
+I spend most of my time writing C++ and CUDA, trying to understand how hardware actually works and diving more into bare-metal programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently Building:**
+* **[gpu-tensor-engine](https://github.com/FatehSingh55/gpu-tensor-engine)**: A bare-metal tensor engine from scratch.
+  * Hand-rolling the heap memory management and copy constructors (mostly to stop double-free crashes).
+  * Flattening 2D/3D arrays into 1D blocks to get better cache hits.
+  * Next up: moving matrix math to the GPU with custom CUDA kernels.
+
+**Stack:** C++, CUDA, C
+**Interests:** Manual memory management, pointers, high-performance computing
